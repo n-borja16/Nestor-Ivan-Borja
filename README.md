@@ -6,6 +6,11 @@
 
 <h2>Datos personales</h2>
 
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+}
 <p><strong>Nombre:</strong> Néstor Iván Borja Martínez</p>
 <p><strong>Edad:</strong> 20 años</p>
 <p><strong>Nacimiento:</strong> 23 de mayo de 1999</p>
